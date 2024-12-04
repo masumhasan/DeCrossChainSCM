@@ -1,5 +1,5 @@
 # DeCrossChainSCM
-Utilising Multichain Technology to Enhance Efficiency in Supply Chain Management of Tech Industry
+Utilising Multichain Blockchain Technology to Enhance Efficiency in Supply Chain Management of Tech Industry
 # Utilising Multichain Blockchain Technology to Enhance Efficiency in Supply Chain Management of Tech Industry
 
 This repository contains the resources, research reports, and presentation slides related to our capstone project aimed at leveraging multichain blockchain technology to improve supply chain efficiency in the tech industry.
