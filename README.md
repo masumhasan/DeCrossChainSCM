@@ -15,20 +15,20 @@ The complexity of supply chain management in the tech industry calls for advance
 
 ## Project Files
 
-### 1. [Stage One Report](path-to-report-1.pdf)
+### 1. [Stage One ](path-to1.pdf)
 This document covers the initial background, literature review, and project management plans. Highlights include:
 - Blockchain integration in supply chains.
 - Sidechain and cross-chain technologies.
 - Financial planning and Gantt chart.
 
-### 2. [Stage Two Report](path-to-report-2.pdf)
+### 2. [Stage Two](path-to2.pdf)
 The second report outlines:
 - Detailed project specifications.
 - Design concepts including Merkle tree proofs and consensus mechanisms.
 - Addressing challenges like scalability and privacy.
 - Expected outcomes and social, ethical considerations.
 
-### 3. [Presentation Slides](path-to-slide.pdf)
+### 3. [Slides](path-to-slide.pdf)
 A visual overview of the project, covering:
 - Motivation, objectives, and problem statement.
 - Proposed methodology and timeline.
@@ -60,7 +60,6 @@ Our approach involves:
 
 ### Supervised By
 **Nafees Mansoor, PhD**  
-University of Liberal Arts Bangladesh  
 
 ## References
 
